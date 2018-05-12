@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2334
     wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23800#Contemporary-American-ComposersCompositions
 gutenberg_bookshelf: Music
 gutenberg_issued: '2007-12-10'
 gutenberg_type: Text
